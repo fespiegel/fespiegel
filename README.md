@@ -28,6 +28,15 @@ Passionate about data analysis, working with database systems, and turning raw d
 
 ---
 
+### 🧩 Hobbies & Interests
+
+- ♟️ **Chess:** Strategic thinking & tactics ([Chess.com Profile](https://www.chess.com/member/finnspiegel))
+- 🎸 **Guitar:** Playing music & practicing songs
+- 🎵 **Music:** Listening to diverse genres & discovering new artists
+- 🎬 **Movies:** Cinema enthusiast & film analysis
+
+---
+
 ### 📈 GitHub Stats
 
 ![Finn's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=fespiegel&theme=tokyonight)
