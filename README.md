@@ -1,16 +1,34 @@
-# Finn Spiegel
+# Hi there, I'm Finn Spiegel 👋
 
-Hi there 👋 I'm Finn Spiegel, a student at TH Köln currently in my third semester.
+Student in **Data and Information Science (B.Sc.)** at **TH Köln** (3rd Semester). 
+Passionate about data analysis, working with database systems, and turning raw data into meaningful insights.
 
-## About me
+---
 
-- **What I study:** Data and Information Science (B.Sc.)
-- **Skills:** Python, SQL, R, Microsoft Office
-- **Languages:** English, German
+### 🛠 Tech Stack & Tools
 
-## Links
+**Languages & Data:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-- [My GitHub profile](https://github.com/fespiegel)
+**Tools & Productivity:**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+---
+
+### 📌 About Me
+
+- 🎓 **Education:** B.Sc. Data and Information Science at TH Köln
+- 💬 **Languages:** German (Native), English (Fluent)
+- 📫 **Contact:** [E-Mail](finnspiegel@ymail.com)
+
+---
+
+### 📈 GitHub Stats
+
+![Finn's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=fespiegel&theme=tokyonight)
 
 
 <!--
