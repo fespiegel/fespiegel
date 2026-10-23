@@ -22,7 +22,9 @@ Passionate about data analysis, working with database systems, and turning raw d
 
 - 🎓 **Education:** B.Sc. Data and Information Science at TH Köln
 - 💬 **Languages:** German (Native), English (Fluent)
-- 📫 **Contact:** [E-Mail](finnspiegel@ymail.com)
+- 📫 **Contact:**
+  - ✉️ **Private:** [finnspiegel@ymail.com](mailto:finnspiegel@ymail.com)
+  - 🎓 **University:** [finn.spiegel@smail.th-koeln.de](mailto:finn.spiegel@smail.th-koeln.de)
 
 ---
 
