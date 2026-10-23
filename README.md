@@ -1,4 +1,17 @@
-## Hi there 👋
+# Finn Spiegel
+
+Hi there 👋 I'm Finn Spiegel, a student at TH Köln currently in my third semester.
+
+## About me
+
+- **What I study:** Data and Information Science (B.Sc.)
+- **Skills:** Python, SQL, R, Microsoft Office
+- **Languages:** English, German
+
+## Links
+
+- [My GitHub profile](https://github.com/fespiegel)
+
 
 <!--
 **fespiegel/fespiegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
